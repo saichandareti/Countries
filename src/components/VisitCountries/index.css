@@ -1,0 +1,27 @@
+.bg-container {
+  background-color: #161624;
+  /* height: 100vh; */
+  width: 100vw;
+  margin: 0px;
+  padding: 20px;
+}
+.upper-container {
+  width: 100vw;
+  overflow-y: scroll;
+}
+.lower-container {
+  height: 50vh;
+  width: 100vw;
+}
+.main-heading {
+  font-size: 24px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.countries-list {
+  padding-left: 0px;
+  border: 1px solid #94a3b8;
+  border-radius: 6px;
+  width: 90vw;
+  height: 300px;
+}

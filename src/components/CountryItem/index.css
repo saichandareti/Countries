@@ -1,0 +1,5 @@
+.list-item {
+  list-style-type: none;
+  width: 100%;
+  border-bottom: 1px solid #94a3b8;
+}
